@@ -9658,6 +9658,11 @@ a.text-dark:hover, a.text-dark:focus {
   padding-left: 0;
 }
 
+a {
+  text-decoration: none;
+  color: orangered;
+}
+
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/home/martin/Bureau/coding_school/github/hexa/public/img/banner.jpg);
   background-repeat: no-repeat;
@@ -9751,6 +9756,15 @@ header p {
   box-shadow: 5px 8px 10px black;
   width: 20%;
   height: 40%;
+}
+
+.btn_card {
+  background-color: orangered;
+  letter-spacing: 0.1em;
+}
+
+.a_card {
+  font-size: 1.3em;
 }
 
 /*!
