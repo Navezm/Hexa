@@ -9663,6 +9663,10 @@ a {
   color: orangered;
 }
 
+body {
+  font-family: commissioner;
+}
+
 header {
   background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/home/martin/Bureau/coding_school/github/hexa/public/img/banner.jpg);
   background-repeat: no-repeat;
@@ -9765,6 +9769,11 @@ header p {
 
 .a_card {
   font-size: 1.3em;
+}
+
+@font-face {
+  font-family: commissioner;
+  src: url(../../public/font/Commissioner/static/Commissioner-Regular.ttf);
 }
 
 /*!
