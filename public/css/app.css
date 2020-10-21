@@ -1,3 +1,39 @@
+#section_infra {
+  margin-top: 8%;
+  margin-bottom: 8%;
+  line-height: 2;
+}
+
+#section_infra hr {
+  width: 10%;
+  background-color: #ff7b00;
+}
+
+#section_colla {
+  background-color: #e9e9e9;
+  padding-top: 8%;
+  padding-bottom: 8%;
+  line-height: 2;
+}
+
+#section_colla hr {
+  width: 10%;
+  background-color: #ff7b00;
+}
+
+.img_colla {
+  width: 100%;
+  height: 100%;
+}
+
+.h2_colla {
+  font-size: 4em;
+}
+
+.p_colla {
+  font-size: 25px;
+}
+
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
