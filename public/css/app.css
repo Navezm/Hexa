@@ -9649,6 +9649,20 @@ a.text-dark:hover, a.text-dark:focus {
   }
 }
 
+a {
+  text-decoration: none;
+  color: orangered;
+}
+
+.btn_card {
+  background-color: orangered;
+  letter-spacing: 0.1em;
+}
+
+.a_card {
+  font-size: 1.3em;
+}
+
 /*!
  * Font Awesome Free 5.15.1 by @fontawesome - https://fontawesome.com
  * License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License)
