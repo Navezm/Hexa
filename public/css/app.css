@@ -1,3 +1,27 @@
+.height100 {
+  height: 100%;
+}
+
+header {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)), url(/home/martin/Bureau/coding_school/github/hexa/public/img/banner.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 80vh;
+}
+
+header h1 {
+  font-size: 4rem;
+  font-weight: 100;
+}
+
+header p {
+  font-size: 20px;
+  width: 50%;
+  text-align: center;
+  line-height: 2;
+}
+
 /*!
  * Bootstrap v4.5.3 (https://getbootstrap.com/)
  * Copyright 2011-2020 The Bootstrap Authors
